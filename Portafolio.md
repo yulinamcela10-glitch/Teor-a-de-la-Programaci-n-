@@ -5,18 +5,18 @@
 </p>
  
   
-<h1 align="center">🌸 <em>UNIVERSIDAD NACIONAL DE LOJA</em>🌸</h1>
+**<h1 align="center"> UNIVERSIDAD NACIONAL DE LOJA</h1>**
 
 
 ## 🪷 Portafolio Digital de Aprendizaje – *Teoría de la Programación*  
 
 ---
 
-### 🌼 **Carrera:** Computación  
-### 🪻 **Estudiante:** Kelly Yulisa Namcela Morocho  
-### 🌼 **Docente:** Ing. Lissette Geoconda López Faicán  
-### 🪻 **Ciclo:** Primer Ciclo  
-### 🌼 **Período:** Septiembre 2025 – Febrero 2026  
+### 🌼 **Carrera:**  Computación  
+### 🪻 **Estudiante:**  Kelly Yulisa Namcela Morocho  
+### 🌼 **Docente:**  Ing. Lissette Geoconda López Faicán  
+### 🪻 **Ciclo:**  Primer Ciclo  
+### 🌼 **Período:**  Septiembre 2025 – Febrero 2026  
 
 ---
 
