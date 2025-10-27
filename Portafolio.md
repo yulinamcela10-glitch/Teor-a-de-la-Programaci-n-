@@ -15,8 +15,10 @@
 
 ## 🍃 Unidad 1 
 
-### 🌷***Contenidos de la Unidad***
 
+
+### >🌷***Contenidos de la Unidad***
+---
 
 ### ~ **Algoritmos, pseudocódigo, diagrama de flujo**
 
@@ -29,8 +31,8 @@
 ### ~ **Reflexión crítica de los aprendizajes de la unidad** 
 
 
-### 🌷***Tareas entregadas***
-
+### >🌷***Tareas entregadas***
+---
 
 ### ~ **Herramientas de algoritmos (pseudocódigo y diagramas de flujo)**
 
