@@ -27,7 +27,7 @@
 ### >🌷***Contenidos de la Unidad***
 ---
 
-### - ~ **[Algoritmos, pseudocódigo, diagrama de flujo](#algoritmos_pseudocodigo_diagrama_flujo.md)**
+### - ~ **[Algoritmos, pseudocódigo, diagrama de flujo](#algoritmos_pseudocodigo_diagrama_flujo)**
 
 ### ~ **Programación por bloques**
 
