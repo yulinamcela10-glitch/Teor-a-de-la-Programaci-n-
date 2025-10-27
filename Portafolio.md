@@ -1,7 +1,14 @@
-![Texto alternativo](https://joinforwater.ngo/wp-content/uploads/2022/05/logo-unl-HC-01-e1651758359420.png)     
-# 🌿 _UNIVERSIDAD NACIONAL DE LOJA_
+<p align="center">
+  <img src="https://joinforwater.ngo/wp-content/uploads/2022/05/logo-unl-HC-01-e1651758359420.png" 
+       alt="Logo Universidad Nacional de Loja" 
+       width="500">
+</p>
+ 
+  
+<h1 align="center">🌸 <em>UNIVERSIDAD NACIONAL DE LOJA</em>🌸</h1>
 
-## 🌺 Portafolio Digital de Aprendizaje – *Teoría de la Programación*  
+
+## 🪷 Portafolio Digital de Aprendizaje – *Teoría de la Programación*  
 
 ---
 
