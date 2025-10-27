@@ -12,11 +12,11 @@
 
 ---
 
-###  **Carrera:**  Computación  
-###  **Estudiante:**  Kelly Yulisa Namcela Morocho  
-###  **Docente:**  Ing. Lissette Geoconda López Faicán  
-###  **Ciclo:**  Primer Ciclo  
-###  **Período:**  Septiembre 2025 – Febrero 2026  
+###  - **Carrera:**  Computación  
+###  - **Estudiante:**  Kelly Yulisa Namcela Morocho  
+###  - **Docente:**  Ing. Lissette Geoconda López Faicán  
+###  - **Ciclo:**  Primer Ciclo  
+###  - **Período:**  Septiembre 2025 – Febrero 2026  
 
 ---
 
@@ -28,7 +28,9 @@
 ---
 
 ### ~ **Algoritmos, pseudocódigo, diagrama de flujo**
-
+- [Algoritmos](Unidad1.md)
+- [Pseudocódigo](Unidad1.md)
+- [Diagrama de flujo](Unidad1.md)
 ### ~ **Programación por bloques**
 
 ### ~ **Ejemplos de algoritmos con estructuras lineales/secuenciales** 
@@ -48,6 +50,16 @@
 ### ~ **Primer acercamiento a la construcción de algoritmos con estructuras secuenciales en pseudocódigo**
 
 ### ~ **Del diseño del algoritmo con estructuras secuenciales a la construcción del programa**  
+
+
+## 🪷 Índice de Secciones
+
+- 🌸 [Unidad 1 – Fundamentos de la Programación](#unidad-1--fundamentos-de-la-programación)
+- 🌿 [Unidad 2 – Estructuras y Funciones](#unidad-2--estructuras-y-funciones)
+- 🌻 [Unidad 3 – Paradigmas de Programación](#unidad-3--paradigmas-de-programación)
+- 🌼 [Conclusiones](#conclusiones)
+- 🍀 [Referencias](#referencias)
+
 
 
 
