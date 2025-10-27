@@ -8,7 +8,7 @@
 **<h1 align="center"> UNIVERSIDAD NACIONAL DE LOJA</h1>**
 
 
-## 🌼 Portafolio Digital de Aprendizaje – *Teoría de la Programación*  
+<h2 align="center">🌼 Índice del Portafolio Digital – Teoría de la Programación</h2>
 
 ---
 
@@ -27,7 +27,8 @@
 ### >🌷***Contenidos de la Unidad***
 ---
 
-- [Algoritmos, pseudocódigo, diagrama de flujo](#algoritmos_pseudocodigo_diagrama_flujo)
+### ~ **Algoritmos, pseudocódigo, diagrama de flujo**
+- [Algoritmos](algoritmos_pseudocodigo_diagrama_flujo.md)
 
 ### ~ **Programación por bloques**
 
@@ -48,6 +49,8 @@
 ### ~ **Primer acercamiento a la construcción de algoritmos con estructuras secuenciales en pseudocódigo**
 
 ### ~ **Del diseño del algoritmo con estructuras secuenciales a la construcción del programa**  
+
+
 
 
 
