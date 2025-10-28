@@ -5,17 +5,17 @@
 </p>
  
 
-<h1 align="center">🌺 Universidad Nacional de Loja 🌺</h1>
+<h1 align="center"> 🍃 Universidad Nacional de Loja </h1>
 
-<h2 align="center">🌸 Portafolio Digital de Aprendizaje – Teoría de la Programación 🌸</h2>
+<h2 align="center">🌼 Portafolio Digital de Aprendizaje – Teoría de la Programación 🌼</h2>
 
 ---
 
-### 🌷 **Carrera:** Computación  
-### 🌼 **Estudiante:** Kelly Yulisa Namcela Morocho  
-### 🌻 **Docente:** Ing. Lissette Geoconda López Faicán  
-### 🌺 **Ciclo:** Primer Ciclo  
-### 🌸 **Período:** Septiembre 2025 – Febrero 2026  
+- ###  **Carrera:**   *Computación*
+- ###  **Estudiante:**  *Kelly Yulisa Namcela Morocho*  
+- ###  **Docente:**   *Ing. Lissette Geoconda López Faicán*
+- ###  **Ciclo:**   *Primer Ciclo*  
+- ###  **Período:**   *Septiembre 2025 – Febrero 2026*
 
 ---
 
@@ -41,7 +41,6 @@
 ## 🌺 Conclusiones Generales  
 
 🌷 *En esta sección no aplica la elaboración de conclusiones generales, dado el carácter introductorio y formativo de la asignatura.*  
-*Sin embargo, se reconoce el valor del proceso de aprendizaje como base fundamental para el desarrollo de competencias en programación y pensamiento lógico.*
 
 ---
 
