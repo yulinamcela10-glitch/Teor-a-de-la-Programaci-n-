@@ -28,7 +28,6 @@
 ---
 
 ### ~ **Algoritmos, pseudocódigo, diagrama de flujo**
-- [Algoritmos](algoritmos_pseudocodigo_diagrama_flujo.md)
 
 ### ~ **Programación por bloques**
 
@@ -49,6 +48,10 @@
 ### ~ **Primer acercamiento a la construcción de algoritmos con estructuras secuenciales en pseudocódigo**
 
 ### ~ **Del diseño del algoritmo con estructuras secuenciales a la construcción del programa**  
+
+## 🍃 Unidad 2 : Fundamentos de Algoritmos y Programas
+
+## 🍃 Unidad 3 : Fundamentos de Algoritmos y Programas
 
 
 
