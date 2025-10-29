@@ -38,9 +38,7 @@ En esta sección se presentan las principales actividades académicas desarrolla
 
 - 🌷 **Primer acercamiento a la construcción de algoritmos** con estructuras secuenciales en pseudocódigo.
   
-  **Objetivo:** Familiarizar al estudiante con la herramienta
-  PSeInt y desarrollar su primer algoritmo en pseudocódigo,
-   aplicando estructuras secuenciales básicas
+  **Objetivo:** Familiarizar al estudiante con la herramienta PSeInt y desarrollar su primer algoritmo en pseudocódigo, aplicando estructuras secuenciales básicas
 - 🌼 **Exploración y uso de herramientas digitales** para la creación de pseudocódigos y diagramas de flujo.
 
   **Objetivo:** Reconocer y aplicar herramientas digitales para la representación de algoritmos en pseudocódigo y diagramas de flujo, fortaleciendo la comprensión del proceso de solución de problemas computacionales.
