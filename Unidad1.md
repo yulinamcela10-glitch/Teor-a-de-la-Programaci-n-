@@ -18,6 +18,15 @@ Se analizó la naturaleza y aplicación de cada uno, promoviendo la capacidad de
 Asimismo, se introdujo el enfoque de la **programación por bloques**, favoreciendo la comprensión visual de las estructuras secuenciales.  
 A través de diversos ejemplos y actividades, el estudiante pudo afianzar los conocimientos relacionados con el **diseño, interpretación y ejecución de algoritmos simples**.
 
+### 🌸 *Dificultades en la aplicación de los contenidos*
+Al tratarse de una asignatura nueva y de temas que no habían sido abordados previamente, al inicio se presentaron algunas dificultades en la comprensión
+de los contenidos. No obstante, mediante la práctica de lo aprendido y con la orientación de la docente, fue posible lograr una adecuada comprensión de
+estos nuevos temas.
+
+### 🌹 *Reflexión crítica*
+La Unidad 1 permitió comprender los fundamentos de la programación y desarrollar pensamiento lógico y secuencial.
+A pesar de las dificultades iniciales, la práctica y el uso de herramientas digitales facilitaron la comprensión y aplicación de los algoritmos. 
+
 ---
 
 ### 🌻 *Ejercicios Prácticos (APE)*  
