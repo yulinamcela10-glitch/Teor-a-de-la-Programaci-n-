@@ -47,8 +47,8 @@
 ## 🌼 Bibliografía  
 
 📚 *Las fuentes consultadas se presentan conforme al formato IEEE:*  
-1. Exploración y uso de herramientas digitales para pseudocódigo y diagramas
-de flujo
+**1. Exploración y uso de herramientas digitales para pseudocódigo y diagramas
+de flujo**
 
 [1] E. Guzmán Y Valle, A. Máter, D. Magisterio, N. Facultad, and D. E. Ciencias, “UNIVERSIDAD
 NACIONAL DE EDUCACIÓN,” Lima, Perú, 2021. Accessed: Oct. 10, 2025. [Online]. Available:
@@ -59,15 +59,14 @@ d5e1dfa59def/content
 Ecuador, Nov. 2021. [Online]. Available:
 https://www.researchgate.net/publication/362961606
 
-2. Revisión de tutoriales oficiales de instalación de lenguajes de programación
-(C, Python o Java) 
+**2. Revisión de tutoriales oficiales de instalación de lenguajes de programación
+(C, Python o Java)**
 
 [1] D. Arias Vivanco, M. Defas Itaz, and E. Jarrín Sánchez, “Reseña del uso del lenguaje de
 programación Python en el Desarrollo de Software,” Revista Científica Élite, vol. 6, no. 2, pp.
 1–6, Sep. 2024, doi: 10.69603/itsqmet.vol6.n2.2024.90.
 
-
-3. Universidad Nacional de Loja, *Materiales de apoyo – Teoría de la Programación*, 2025.  
+**3. Universidad Nacional de Loja, *Materiales de apoyo – Teoría de la Programación*, 2025**  
 
 ---
 
