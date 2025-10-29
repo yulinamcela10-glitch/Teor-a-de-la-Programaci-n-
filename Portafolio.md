@@ -19,6 +19,7 @@
 
 ---
 
+
 ## 🌿 Unidades de Aprendizaje
 
 ### 🍃 **Unidad 1:** Fundamentos de Algoritmos y Programas  
@@ -66,7 +67,7 @@ https://www.researchgate.net/publication/362961606
 programación Python en el Desarrollo de Software,” Revista Científica Élite, vol. 6, no. 2, pp.
 1–6, Sep. 2024, doi: 10.69603/itsqmet.vol6.n2.2024.90.
 
-**3. Universidad Nacional de Loja, *Materiales de apoyo – Teoría de la Programación*, 2025**  
+**3. Universidad Nacional de  Loja, *Materiales de apoyo – Teoría de la Programación*, 2025**  
 
 ---
 
