@@ -78,7 +78,7 @@ programación Python en el Desarrollo de Software,” Revista Científica Élite
 ---
 
 
-<h3 align="center">🌾 *“Sembrando conocimiento, florece la programación.”* 🌾</h3>
+**<h3 align="center">🌾 “Sembrando conocimiento, florece la programación.” 🌾</h3>**
 
 
 
