@@ -7,7 +7,7 @@
 
 | 🌷 Codificación | 📅 Librerias o bibliotecas | 📘 Comienzo del programa |
 |:-------------|:------------------:|-----------:|
-| El código  queda almacenada en lo que llamamos programa fuente, y el Lenguaje C utiliza archivos con extensión .c, es decir nombre_archivo.c |La extensión de un archivo de librería es .h, es decir nombre_librería.h #include <librería.h>, La librería que nunca puede faltar es stdio.h| En C el programa empieza SIEMPRE desde la función main(). |
+| <p align="center">El código  queda almacenada en lo que llamamos programa fuente, y el Lenguaje C utiliza archivos con extensión .c, es decir nombre_archivo.c |La extensión de un archivo de librería es .h, es decir nombre_librería.h #include <librería.h>, La librería que nunca puede faltar es stdio.h| En C el programa empieza SIEMPRE desde la función main(). |
 
 
 </div>
