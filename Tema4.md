@@ -4,25 +4,20 @@
 - Programación en C
 
 <div align="center">
-
-| 🌷 Codificación | 📅 Librerias o bibliotecas | 📘 Comienzo del programa |
+  
+| <p align="center"> Codificación</p> |<p align="center"> Librerias o bibliotecas</p> | <p align="center"> Comienzo del programa</p> |
 |:-------------|:------------------:|-----------:|
-| <p align="center">El código  queda almacenada en lo que llamamos programa fuente, y el Lenguaje C utiliza archivos con extensión .c, es decir nombre_archivo.c |La extensión de un archivo de librería es .h, es decir nombre_librería.h #include <librería.h>, La librería que nunca puede faltar es stdio.h| En C el programa empieza SIEMPRE desde la función main(). |
-
+| <p align="center">El código  queda almacenada en lo que llamamos **programa fuente**, y el Lenguaje C utiliza archivos con extensión `.c`, es decir `nombre_archivo.c`</p> |<p align="center">La extensión de un archivo de librería es `.h`, es decir `nombre_librería.h` `#include <librería.h>` — La librería que nunca puede faltar es `stdio.h`</p>| <p align="center">En C el programa **siempre** comienza desde la función `main()`.</p>|
 
 </div>
 
-
+- Tipos de datos simples       
+  El tipo de dato determina la cantidad de memoria para almacenar
 <div align="center">
 
-| 🌷 **Codificación** | 📅 **Librerías o bibliotecas** | 📘 **Comienzo del programa** |
-|:-------------------:|:-----------------------------:|:-----------------------------:|
-| El código queda almacenado en lo que llamamos **programa fuente**, y el Lenguaje C utiliza archivos con extensión `.c`, es decir `nombre_archivo.c`. | La extensión de un archivo de librería es `.h`, es decir `nombre_librería.h`.  
-`#include <librería.h>` — la librería que nunca puede faltar es `stdio.h`. | En C el programa **siempre** comienza desde la función `main()`. |
+  <img width="800" height="300" alt="image" src="https://github.com/user-attachments/assets/27aa363c-497f-4ccb-b990-e0205867f781" />
 
 </div>
-
-
 
 
 
