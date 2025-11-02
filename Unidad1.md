@@ -7,11 +7,17 @@
 ---
 ### Conceptos fundamentales de Algoritmos 
  [Ir a Tema 1 🌼](Tema1.md)
+ 
 
-
- ### Elementos básicos de algoritmos y programas 
+### Elementos básicos de algoritmos y programas 
  [Ir a Tema 2 🌼](Tema2.md)
 
+
+### Herramientas para programación
+ [Ir a Tema 3 🌼](Tema3.md)
+
+
+ 
 ---
 
 ### 🌼 
