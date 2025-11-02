@@ -23,37 +23,55 @@
 |Es un identificador que guarda un valor, que puede ser modificado durante la ejecución del programa y se declara al inicio antes de la ejecución | Es un identificador que guarda un valor, pero que no van a cambiar durante la ejecución del programa, y es preferible escibirlo todo en mayúscula |
 </div>  
 
+- Asignación      
+  Es la acción de darle valor a una variable o constante. Se utiliza el signo ← o = como símbolo de asignación     
+  valor1 = 2        
+  valor1 ← 2      
+  El valor de la expresión en el lado derecho debe ser de un tipo de datos compatible con la variable en el lado izquierdo, o se producirán resultados inesperados
+  
+- Entrada de datos (lectura)    
+  Instrucciones que permiten al usuario ingresar datos     
+  **Leer** variable
 
+- Salida de datos (escritura)    
+  Instrucciones que permiten mostrar los resultados      
+  **Escribir** mensaje a mostrar
 
+- Comentarios en la codificación (en C)      
+  Un comentario es un mensaje que sirve para documentar el código. No es tomado en cuenta al momento de ejecutarse el algoritmo.     
+  //Nombre de el algoritmo       
+  //Datos de entrada      
+  // Proceso     
+  //Datos de salida
 
-
-
-
-
-
-
-<p align="center">
-  <img width="286" height="269" alt="image" src="https://github.com/user-attachments/assets/2eb51431-9d12-4255-bbf1-1395f0bb2818" /><br>
-  <em>🌺 Ejemplo de Algoritmo 🌺</em>
-</p>
-
- - Clasificación   
-  Los algoritmos se clasifican en: 
+- Expresiones      
+  Son una combinación entre variables, constantes, operadores y paréntesis.
 
 <div align="center">
 
-| 🌷 **Cualitativos** | 📅 **Cuantitativos** |
-|:-------------------:|:--------------------:|
-| Implique la descripción a través de frases y palabras | Se refiere al uso de cálculos o fórmulas matemáticas |
-| <img width="215" height="208" alt="Cualitativo" src="https://github.com/user-attachments/assets/70fb38dd-86de-4b2a-bd14-7dc17a0a980c" /> | <img width="300" height="228" alt="Cuantitativo" src="https://github.com/user-attachments/assets/61f35990-37fe-4303-92b8-959091bb64eb" /> |
+| <p align="center"><img width="870" height="267" alt="image" src="https://github.com/user-attachments/assets/079b6835-4178-4f9b-af92-72765e9e22ca" /></p> | <p align="center"><img width="906" height="245" alt="image" src="https://github.com/user-attachments/assets/717f5eef-991d-420f-8e58-b70aeb976140" /></p> |
+|:-------------------------------------------------------------------------------------------------------------:|:-------------------------------------------------------------------------------------------------------------:|
+| <p align="center"><img width="966" height="152" alt="image" src="https://github.com/user-attachments/assets/639be1f5-52c9-458a-b52c-aefedfdd4486" /></p> | <p align="center"><img width="768" height="346" alt="image" src="https://github.com/user-attachments/assets/2361cae6-9faa-4e00-ba40-1ca295feacae" /></p> |
 
 </div>
-- Composicion de un algoritmo 
+
+
+- Pruebas de escritorio     
+  Simular datos de entrada, para comprobar que los resultados sean correcto
 
 <div align="center">
 
-| 🌷 **Entrada** | 📅 **Proceso** | 📘 **Salida** |
-|:--------------:|:--------------:|:-------------:|
-| <p align="center">Toda información que se debe ingresar al algoritmo para que pueda realizar los procesos</p> | <p align="center">Operaciones o cálculos matemáticos que se deben desarrollar para darle solución al problema planteado</p> | <p align="center">Los resultados de los diferentes procesos llevados a cabo por el algoritmo</p> |
+| 🧩 **Instrucción** | 🅰️ **a** | 🅱️ **b** | ➕ **suma** | 🖨️ **salida** |
+|:------------------:|:--------:|:--------:|:------------:|:-------------:|
+| <p align="center">Inicio</p> |  |  |  |  |
+| <p align="center">Leer a</p> | <p align="center">2</p> |  |  |  |
+| <p align="center">Leer b</p> |  | <p align="center">4</p> |  |  |
+| <p align="center">Suma a + b</p> |  |  | <p align="center">6</p> |  |
+| <p align="center">Imprimir</p> |  |  |  | <p align="center">6</p> |
+| <p align="center">Fin</p> |  |  |  |  |
+
+</div>
+
+
 
 </div>
