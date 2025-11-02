@@ -6,18 +6,11 @@
 ## 🌷 **Contenidos vistos en la Unidad 1**
 ---
 ### Conceptos fundamentales de Algoritmos 
-- Proceso para resolver problemas a través de Computadoras y Algoritmos
-- Algoritmos
-  
-  -Definición, clasificación y características
-  
-  -Entrada - Proceso - Salida
-  
-  -Representación de un algoritmo, pseudocódigo y diagrama de flujo.
-
-- Lenguaje de Programación
+ [Ir a Tema 1 🌼](Tema1.md)
 
 
+ ### Elementos básicos de algoritmos y programas 
+ [Ir a Tema 2 🌼](Tema2.md)
 
 ---
 
