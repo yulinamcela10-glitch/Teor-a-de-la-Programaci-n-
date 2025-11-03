@@ -1,55 +1,64 @@
-## Algoritmo
+
+## 🌺 **Algoritmos: la base del pensamiento lógico**
+
 ---
-- ¿Qué es un Algoritmo?  
-    Un **algoritmo** es una secuencia de pasos lógicamente ordenados y
-   finitos que dan solución a un problema determinado
-  
-- Caracteristicas  
-  Algunas de sus caracteristicas es que estos deben ser:
-  
-  - **Precisos**, indicar el orden de cada paso de manera clara y sin ambigüedades.
-  
-  - Estar **definido**, si se sigue el algoritmo varias veces con los mismos datos de entrada, los resultados obtenidos deben ser los mismos.
-  
-  - Debe ser **finito**, de tiempo finito, su ejecución debe concluir en algún momento.
+
+### 🌷 ¿Qué es un Algoritmo?
+Un **algoritmo** es una serie de pasos ordenados y finitos que permiten resolver un problema o realizar una tarea específica.  
+Cada paso sigue una secuencia lógica que garantiza obtener siempre el mismo resultado a partir de los mismos datos de entrada.
+
+---
+
+### 🌸 Características principales
+Los algoritmos deben ser:  
+
+- 🌼 **Precisos:** cada paso debe estar claramente definido y en orden.  
+- 🌼 **Definidos:** al ejecutarse varias veces con los mismos datos, debe producir el mismo resultado.  
+- 🌼 **Finitos:** su ejecución debe terminar en un número limitado de pasos.  
 
 <p align="center">
   <img width="286" height="269" alt="image" src="https://github.com/user-attachments/assets/2eb51431-9d12-4255-bbf1-1395f0bb2818" /><br>
-  <em>🌺 Ejemplo de Algoritmo 🌺</em>
+  <em>🌿 Ejemplo ilustrativo de un algoritmo 🌿</em>
 </p>
 
- - Clasificación   
-  Los algoritmos se clasifican en: 
+---
+
+### 🌼 Clasificación de los Algoritmos
 
 <div align="center">
 
-| 🌷 **Cualitativos** | 📅 **Cuantitativos** |
+| 🌷 **Cualitativos** | 📘 **Cuantitativos** |
 |:-------------------:|:--------------------:|
-| Implique la descripción a través de frases y palabras | Se refiere al uso de cálculos o fórmulas matemáticas |
+| Se expresan mediante palabras o descripciones, sin necesidad de cálculos. | Requieren operaciones numéricas o fórmulas matemáticas. |
 | <img width="215" height="208" alt="Cualitativo" src="https://github.com/user-attachments/assets/70fb38dd-86de-4b2a-bd14-7dc17a0a980c" /> | <img width="300" height="228" alt="Cuantitativo" src="https://github.com/user-attachments/assets/61f35990-37fe-4303-92b8-959091bb64eb" /> |
 
 </div>
-- Composicion de un algoritmo 
+
+---
+
+### 🌸 Estructura de un Algoritmo  
 
 <div align="center">
 
-| 🌷 **Entrada** | 📅 **Proceso** | 📘 **Salida** |
+| 🌷 **Entrada** | 🌼 **Proceso** | 🌺 **Salida** |
 |:--------------:|:--------------:|:-------------:|
-| <p align="center">Toda información que se debe ingresar al algoritmo para que pueda realizar los procesos</p> | <p align="center">Operaciones o cálculos matemáticos que se deben desarrollar para darle solución al problema planteado</p> | <p align="center">Los resultados de los diferentes procesos llevados a cabo por el algoritmo</p> |
+| <p align="center">Información que se ingresa al algoritmo.</p> | <p align="center">Operaciones o cálculos necesarios para resolver el problema.</p> | <p align="center">Resultados obtenidos después del procesamiento.</p> |
 
 </div>
 
-- Representar un algoritmo     
-  - Pseudocodigo   
-Son instrucciones escritas bajo cierta estructura y reglas que inducirá al alumno hacia los lenguajes de programación.
-Es un punto intermedio entre el lenguaje coloquial y el lenguaje de programación
+---
+
+### 🌹 Representación de un Algoritmo  
+
+#### 💐 **Pseudocódigo**  
+Es la representación escrita de un algoritmo utilizando un lenguaje similar al natural, pero con una estructura lógica que facilita su traducción a un lenguaje de programación.
 
 <p align="center">
 <img width="400" height="500" alt="image" src="https://github.com/user-attachments/assets/a9fdfc51-8b14-4111-8495-18649942f647" />
 </p>
 
-  - Diagrama de flujo     
-    Utiliza símbolos y describe las instrucciones que debe seguir el algoritmo.
+#### 🌻 **Diagrama de flujo**  
+Representa los pasos de un algoritmo mediante símbolos y flechas que indican la secuencia de ejecución.
 
 <div align="center">
 
@@ -57,30 +66,37 @@ Es un punto intermedio entre el lenguaje coloquial y el lenguaje de programació
 
 </div>
 
-- Lenguaje de programación       
-  Es un conjunto de símbolos y signos que se combinan entre sí según una serie de reglas de sintaxis predefinidas del lenguaje. Permite expresar programas (software).
+---
+
+### 🌷 Lenguajes de Programación  
+
+Son sistemas de símbolos y reglas que permiten escribir programas comprensibles por la computadora.
 
 <div align="center">
 
-| 🌷 Lenguaje máquina | 📅 Lenguaje bajo nivel |
-|:-------------------:|:--------------------:|
-| Es el lenguaje de programación de más bajo nivel que las computadoras entienden directamente, compuesto por una secuencia de unos y ceros (código binario) | es un tipo de lenguaje de programación que está muy cerca del código de máquina y el hardware de una computadora, ofreciendo un control directo y preciso sobre el funcionamiento de la máquina. |
-| **Lenguaje alto nivel**                    |    **Lenguje Algoritmico**                   |
-| Lenguaje de programación diseñado para ser fácil de entender y escribir para los humanos, con una sintaxis más cercana al lenguaje natural y que abstrae los detalles complejos del hardware de la computadora                                           | Conjunto de reglas y símbolos que permite describir un proceso para resolver un problema de manera lógica y estructurada, ya sea de forma gráfica (como un diagrama de flujo) o en texto (como el pseudocódigo)  |
+| 🌿 **Lenguaje máquina** | 🌼 **Lenguaje de bajo nivel** |
+|:----------------------:|:-----------------------------:|
+| Formado por 1 y 0, es el único lenguaje que la computadora entiende directamente. | Cercano al lenguaje máquina, permite un control detallado del hardware. |
+| 🌺 **Lenguaje de alto nivel** | 🌸 **Lenguaje algorítmico** |
+| Sintaxis similar al lenguaje humano, facilita la programación. | Permite representar soluciones de manera lógica o gráfica (pseudocódigo o diagramas). |
+
 </div>
-  
-
-- Ejercicios de identificación de entrada-proceso-salida   
-Se necesita calcular el volumen de una caja de dimensiones A, B y C.
-    
-<img width="384" height="429" alt="Captura de pantalla 2025-10-28 004909" src="https://github.com/user-attachments/assets/4e972707-59ea-4ae1-b213-cbed2d607f73" />
-
-    
-<img width="344" height="204" alt="Captura de pantalla 2025-10-28 005041" src="https://github.com/user-attachments/assets/b8ddc18a-a318-404e-90f4-3bb018f969c0" />
-
-
-📁 [Mas ejercicios](https://drive.google.com/file/d/1YWx_mjGa3tFtItNRr-I2xTqZ4HUONOrW/view?usp=sharing)
 
 ---
 
-<h3 align="center">🌼 <a href="Unidad1.md" style="color: inherit; text-decoration: none;">⬅️ Volver</a> 🌼</h3>
+### 🌼 Ejemplo práctico: Entrada – Proceso – Salida  
+
+**Problema:** Calcular el volumen de una caja de dimensiones A, B y C.
+
+<p align="center">
+<img width="384" height="429" alt="Caja" src="https://github.com/user-attachments/assets/4e972707-59ea-4ae1-b213-cbed2d607f73" /><br>
+<img width="344" height="204" alt="Pseudocódigo" src="https://github.com/user-attachments/assets/b8ddc18a-a318-404e-90f4-3bb018f969c0" /><br>
+<em>🌺 Ejemplo de algoritmo secuencial en PSeInt 🌺</em>
+</p>
+
+📁 [Ver más ejercicios 🌸](https://drive.google.com/file/d/1YWx_mjGa3tFtItNRr-I2xTqZ4HUONOrW/view?usp=sharing)
+
+---
+
+<h3 align="center">🌷 <a href="Unidad1.md" style="color: inherit; text-decoration: none;">⬅️ Volver</a> 🌷</h3>
+
