@@ -1,51 +1,73 @@
-## Elementos básicos de algoritmos y programas
+
+## 🌺 **Elementos Básicos de Algoritmos y Programas**
 ---
 
-- Datos e información    
-  Un datos es una cifra, letra, palabra... que se suministra a la computadora como entrada y la máquina almacena en un determinado formato
-- Tipos de datos simples 
+### 🌸 Datos e Información  
+Un **dato** es cualquier valor (número, letra o palabra) que se entrega a la computadora como entrada.  
+Al procesarse, los datos se transforman en **información**, es decir, resultados con significado.
+
+---
+
+### 🌼 Tipos de Datos Simples  
+
 <div align="center">
 
-| 🌷 **Enteros (int)** | 📅 **Reales (float o double)** |
+| 🌷 **Enteros (int)** | 🌸 **Reales (float o double)** |
 |:-------------------:|:--------------------:|
-| Valores que no tienen punto decimal o flotante, pueden ser positivos o negativos y se incluye el cero | valores que tienen punto decimal o flotante, pueden ser positivos o negativos y se incluye el cero |
-| **Lógicos (boolean)**                     |**Caracter (char)**    |
-|Tipo de dato especial que solo puede almacenar uno de dos valores, falso o verdadero |Conformados por un solo carácter, van entre comillas dobles, y pueden ser letras, números, signos o sı́mbolos  |
+| Valores sin punto decimal. Pueden ser positivos, negativos o cero. | Números con parte decimal o flotante. También pueden ser positivos, negativos o cero. |
+| 🌻 **Lógicos (boolean)** | 🌺 **Carácter (char)** |
+| Solo pueden tomar dos valores: **verdadero** o **falso**. | Representan un único carácter (letra, número o símbolo) encerrado entre comillas. |
+
 </div>
 
-- Identificador     
-  Es un nombre asociado a un objeto de programa, puede ser una variable, una constante, una función... El nombre de cada identificador debe identificar lo más claramente posible el objeto que identifica
+---
+
+### 🌹 Identificadores  
+Un **identificador** es el nombre que se asigna a un elemento del programa (variable, constante, función, etc.).  
+Debe ser claro, descriptivo y único dentro del código.
 
 <div align="center">
 
-| 🌷 Variables | 📅 Constantes |
+| 🌷 **Variable** | 🌸 **Constante** |
 |:-------------------:|:--------------------:|
-|Es un identificador que guarda un valor, que puede ser modificado durante la ejecución del programa y se declara al inicio antes de la ejecución | Es un identificador que guarda un valor, pero que no van a cambiar durante la ejecución del programa, y es preferible escibirlo todo en mayúscula |
-</div>  
+| Almacena un valor que puede **cambiar** durante la ejecución del programa. | Guarda un valor que **permanece igual** durante toda la ejecución. Suele escribirse en **mayúsculas**. |
 
-- Asignación      
-  Es la acción de darle valor a una variable o constante. Se utiliza el signo ← o = como símbolo de asignación     
-  valor1 = 2        
-  valor1 ← 2      
-  El valor de la expresión en el lado derecho debe ser de un tipo de datos compatible con la variable en el lado izquierdo, o se producirán resultados inesperados
-  
-- Entrada de datos (lectura)    
-  Instrucciones que permiten al usuario ingresar datos     
-  **Leer** variable
+</div>
 
-- Salida de datos (escritura)    
-  Instrucciones que permiten mostrar los resultados      
-  **Escribir** mensaje a mostrar
+---
 
-- Comentarios en la codificación (en C)      
-  Un comentario es un mensaje que sirve para documentar el código. No es tomado en cuenta al momento de ejecutarse el algoritmo.     
-  //Nombre de el algoritmo       
-  //Datos de entrada      
-  // Proceso     
-  //Datos de salida
+### 🌻 Asignación  
+Es el proceso de **dar un valor** a una variable o constante.  
+Se utiliza el símbolo `←` o `=`:  
 
-- Expresiones      
-  Son una combinación entre variables, constantes, operadores y paréntesis.
+
+El tipo de dato asignado debe ser compatible con la variable para evitar errores.
+
+---
+
+### 🌷 Entrada y Salida de Datos  
+
+- **Entrada (Lectura):** Permite al usuario ingresar información.  
+  👉 `Leer variable`
+
+- **Salida (Escritura):** Muestra resultados en pantalla.  
+  👉 `Escribir mensaje`
+
+---
+
+### 🌼 Comentarios en el Código (Lenguaje C)
+Los **comentarios** se utilizan para explicar el funcionamiento del programa.  
+No se ejecutan, pero facilitan la comprensión del código:
+
+```c
+// Nombre del algoritmo
+// Datos de entrada
+// Proceso
+// Datos de salida
+```
+---
+### 🌸 Expresiones  
+Son combinaciones de variables, constantes y operadores que permiten realizar cálculos o comparaciones.
 
 <div align="center">
 
@@ -55,22 +77,23 @@
 
 </div>
 
+---
 
-- Pruebas de escritorio     
-  Simular datos de entrada, para comprobar que los resultados sean correcto
+### 🌺 Pruebas de Escritorio  
+Las **pruebas de escritorio** consisten en simular manualmente los datos de entrada para comprobar si el algoritmo produce los resultados esperados.
 
 <div align="center">
 
 | 🧩 **Instrucción** | 🅰️ **a** | 🅱️ **b** | ➕ **suma** | 🖨️ **salida** |
 |:------------------:|:--------:|:--------:|:------------:|:-------------:|
-| <p align="center">Inicio</p> |  |  |  |  |
-| <p align="center">Leer a</p> | <p align="center">2</p> |  |  |  |
-| <p align="center">Leer b</p> |  | <p align="center">4</p> |  |  |
-| <p align="center">Suma a + b</p> |  |  | <p align="center">6</p> |  |
-| <p align="center">Imprimir</p> |  |  |  | <p align="center">6</p> |
-| <p align="center">Fin</p> |  |  |  |  |
+| Inicio |  |  |  |  |
+| Leer a | 2 |  |  |  |
+| Leer b |  | 4 |  |  |
+| Suma a + b |  |  | 6 |  |
+| Imprimir |  |  |  | 6 |
+| Fin |  |  |  |  |
 
 </div>
 
-
 <h3 align="center">🌼 <a href="Unidad1.md" style="color: inherit; text-decoration: none;">⬅️ Volver</a> 🌼</h3>
+
