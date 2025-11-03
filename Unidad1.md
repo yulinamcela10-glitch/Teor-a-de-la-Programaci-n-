@@ -22,11 +22,7 @@
  
 ---
 
-### 🌼 
-
----
-
-### 🌻 *Ejercicios Prácticos (APE)*  
+### 🌻 *Aprendizaje Practico Experimental (APE)*  
 A continuación se presentan algunos ejercicios realizados para fortalecer la comprensión de los contenidos:
 
 - 🌸 Identificación de **Entrada – Proceso – Salida (E–P–S)** utilizando la herramienta *PSeInt*.  
@@ -37,7 +33,7 @@ A continuación se presentan algunos ejercicios realizados para fortalecer la co
 
 ---
 
-### 🌺 *Tareas Entregadas (AA)*
+### 🌺 *Aprendizaje Autónomo (AA)*
 ---
 
 En esta sección se presentan las actividades de **Aprendizaje Autónomo** desarrolladas durante la Unidad 1:
