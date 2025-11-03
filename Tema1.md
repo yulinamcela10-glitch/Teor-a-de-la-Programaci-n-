@@ -78,9 +78,8 @@ Se necesita calcular el volumen de una caja de dimensiones A, B y C.
     
 <img width="344" height="204" alt="Captura de pantalla 2025-10-28 005041" src="https://github.com/user-attachments/assets/b8ddc18a-a318-404e-90f4-3bb018f969c0" />
 
-Mas ejercicios 
 
-https://drive.google.com/file/d/1YWx_mjGa3tFtItNRr-I2xTqZ4HUONOrW/view?usp=sharing
+📁 [Mas ejercicios](https://drive.google.com/file/d/1YWx_mjGa3tFtItNRr-I2xTqZ4HUONOrW/view?usp=sharing)
 
 ---
 
