@@ -69,6 +69,19 @@ Es un punto intermedio entre el lenguaje coloquial y el lenguaje de programació
 | Lenguaje de programación diseñado para ser fácil de entender y escribir para los humanos, con una sintaxis más cercana al lenguaje natural y que abstrae los detalles complejos del hardware de la computadora                                           | Conjunto de reglas y símbolos que permite describir un proceso para resolver un problema de manera lógica y estructurada, ya sea de forma gráfica (como un diagrama de flujo) o en texto (como el pseudocódigo)  |
 </div>
   
+
+- Ejercicios de identificación de entrada-proceso-salida   
+Se necesita calcular el volumen de una caja de dimensiones A, B y C.
+    
+<img width="384" height="429" alt="Captura de pantalla 2025-10-28 004909" src="https://github.com/user-attachments/assets/4e972707-59ea-4ae1-b213-cbed2d607f73" />
+
+    
+<img width="344" height="204" alt="Captura de pantalla 2025-10-28 005041" src="https://github.com/user-attachments/assets/b8ddc18a-a318-404e-90f4-3bb018f969c0" />
+
+Mas ejercicios 
+
+https://drive.google.com/file/d/1YWx_mjGa3tFtItNRr-I2xTqZ4HUONOrW/view?usp=sharing
+
 ---
 
 <h3 align="center">🌼 <a href="Unidad1.md" style="color: inherit; text-decoration: none;">⬅️ Volver</a> 🌼</h3>
