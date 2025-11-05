@@ -54,7 +54,7 @@ El tipo de dato asignado debe ser compatible con la variable para evitar errores
 
 ---
 
-### 💬 Comentarios en el Código (Lenguaje C)
+### 💬 Comentarios en el Código 
 Los **comentarios** se utilizan para explicar el funcionamiento del programa.  
 No se ejecutan, pero facilitan la comprensión del código:
 
