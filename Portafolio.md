@@ -1,13 +1,13 @@
+
 <p align="center">
   <img src="https://joinforwater.ngo/wp-content/uploads/2022/05/logo-unl-HC-01-e1651758359420.png" 
        alt="Logo Universidad Nacional de Loja" 
        width="500">
 </p>
  
+<h1 align="center"> 💻 Universidad Nacional de Loja </h1>
 
-<h1 align="center"> 🍃 Universidad Nacional de Loja </h1>
-
-<h2 align="center">🌼 Portafolio Digital de Aprendizaje – Teoría de la Programación 🌼</h2>
+<h2 align="center">🧠 Portafolio Digital de Aprendizaje – Teoría de la Programación 🧠</h2>
 
 ---
 
@@ -19,35 +19,33 @@
 
 ---
 
+## 🧩 Unidades de Aprendizaje
 
-## 🌿 Unidades de Aprendizaje
-
-### 🍃 **Unidad 1:** Fundamentos de Algoritmos y Programas  
-> 🌷 *Exploración de los conceptos básicos de algoritmos, pseudocódigo y diagramas de flujo.*  
-🔗 [Ir a la Unidad 1 🌼](Unidad1.md)
-
----
-
-### 🌸 **Unidad 2:** Estructuras y Funciones  
-> 🌺 *Comprensión de estructuras de control, funciones y modularidad en la programación.*  
+### 💾 **Unidad 1:** Fundamentos de Algoritmos y Programas  
+> 💡 *Exploración de los conceptos básicos de algoritmos, pseudocódigo y diagramas de flujo.*  
+🔗 [Ir a la Unidad 1 ⚙️](Unidad1.md)
 
 ---
 
-### 🌼 **Unidad 3:** Paradigmas y Lenguajes de Programación  
-> 🌻 *Análisis de los diferentes paradigmas de programación y su aplicación práctica.*  
+### 🖥️ **Unidad 2:** Estructuras y Funciones  
+> 🧮 *Comprensión de estructuras de control, funciones y modularidad en la programación.*  
 
 ---
 
-
-## 🌺 Conclusiones Generales  
-
-🌷 *En esta sección no aplica la elaboración de conclusiones generales, dado el carácter introductorio y formativo de la asignatura.*  
+### 🧠 **Unidad 3:** Paradigmas y Lenguajes de Programación  
+> 🧰 *Análisis de los diferentes paradigmas de programación y su aplicación práctica.*  
 
 ---
 
-## 🌼 Bibliografía  
+## 🧾 Conclusiones Generales  
 
-📚 *Las fuentes consultadas se presentan conforme al formato IEEE:*  
+💻 *En esta sección no aplica la elaboración de conclusiones generales, dado el carácter introductorio y formativo de la asignatura.*  
+
+---
+
+## 📚 Bibliografía  
+
+📘 *Las fuentes consultadas se presentan conforme al formato IEEE:*  
 **1. Exploración y uso de herramientas digitales para pseudocódigo y diagramas
 de flujo**
 
@@ -71,22 +69,14 @@ programación Python en el Desarrollo de Software,” Revista Científica Élite
 
 ---
 
-## 🌸 Declaración sobre el Uso de la IA Generativa  
+## 🤖 Declaración sobre el Uso de la IA Generativa  
 
-🤖 *Declaro que en la elaboración de este portafolio digital se empleó inteligencia artificial generativa (IA) únicamente como herramienta de apoyo académico, con fines de redacción, diseño visual y organización del contenido.*  
-🌿 *Todo el contenido conceptual, reflexivo y analítico fue comprendido, adaptado y verificado por la estudiante, garantizando la autenticidad del aprendizaje y el cumplimiento ético del trabajo académico.*
+🧠 *Declaro que en la elaboración de este portafolio digital se empleó inteligencia artificial generativa (IA) únicamente como herramienta de apoyo académico, con fines de redacción, diseño visual y organización del contenido.*  
+💾 *Todo el contenido conceptual, reflexivo y analítico fue comprendido, adaptado y verificado por la estudiante, garantizando la autenticidad del aprendizaje y el cumplimiento ético del trabajo académico.*
 
 ---
 
-
-**<h3 align="center">🌾 “Sembrando conocimiento, florece la programación.” 🌾</h3>**
-
-
-
-
-
-
-
+**<h3 align="center">💡 “Programando conocimiento, creamos futuro.” 💡</h3>**
 
 
 
