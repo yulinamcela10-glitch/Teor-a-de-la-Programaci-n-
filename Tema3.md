@@ -1,17 +1,18 @@
 
-## 🌸 Herramientas para programación
+## 💻 Herramientas para Programación
 ---
 
-### 🌿 Lenguaje de alto nivel
-Los programas escritos en **lenguajes de alto nivel** se llaman **programa fuente**. Algunos de los más conocidos son: C/C++, Python, Java, Visual Basic, Pascal, PHP y Fortran.  
+### 🧠 Lenguaje de Alto Nivel
+Los programas escritos en **lenguajes de alto nivel** se denominan **programas fuente**.  
+Algunos de los más utilizados son: **C/C++**, **Python**, **Java**, **Visual Basic**, **Pascal**, **PHP** y **Fortran**.  
 
-Se dividen en dos categorías principales:
+Estos se clasifican en dos tipos principales:
 
 <div align="center">
 
-| 🧩 **Lenguaje compilado** | 💻 **Lenguaje interpretado** |
+| ⚙️ **Lenguaje Compilado** | 🖥️ **Lenguaje Interpretado** |
 |:--------------------------:|:----------------------------:|
-| <div align="center">El código se traduce mediante un <strong>compilador</strong> a un programa objeto antes de ejecutarse.</div> | <div align="center">El código requiere un <strong>intérprete</strong> que traduce y ejecuta los comandos al instante.</div> |
+| <div align="center">El código es traducido por un <strong>compilador</strong> a lenguaje máquina antes de ejecutarse.</div> | <div align="center">El código necesita un <strong>intérprete</strong> que traduce y ejecuta los comandos en tiempo real.</div> |
 
 </div>
 
@@ -23,8 +24,9 @@ Se dividen en dos categorías principales:
 
 ---
 
-### 🌷 Entorno de desarrollo integrado (IDE)
-Un **IDE** combina un **editor de código**, un **compilador o intérprete** y un **depurador** en una sola aplicación con interfaz gráfica. Facilita la creación, prueba y corrección de programas.
+### 🧩 Entorno de Desarrollo Integrado (IDE)
+Un **IDE** reúne en una sola aplicación herramientas como el **editor de código**, el **compilador o intérprete**, y el **depurador**.  
+Su objetivo es simplificar el proceso de **creación, prueba y corrección** de programas, ofreciendo una interfaz visual amigable.
 
 <div align="center">
 
@@ -34,7 +36,7 @@ Un **IDE** combina un **editor de código**, un **compilador o intérprete** y u
 
 ---
 
-### 🌼 Instalación de C, Java y Python en VSCode
+### 🧰 Instalación de C, Java y Python en VSCode
 
 <div align="center">
 
@@ -47,7 +49,5 @@ Un **IDE** combina un **editor de código**, un **compilador o intérprete** y u
 
 ---
 
-<h3 align="center">🌼 <a href="Unidad1.md" style="color: inherit; text-decoration: none;">⬅️ Volver</a> 🌼</h3>
-
-
+<h3 align="center">🔙 <a href="Unidad1.md" style="color: inherit; text-decoration: none;">⬅️ Volver</a> 🔙</h3>
 
