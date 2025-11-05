@@ -1,21 +1,21 @@
 
-## 🌸 Programación
+## 💻 Programación
 ---
 
-### 🌿 Programación en C
+### 🧠 Programación en C
 
 <div align="center">
 
-| 📝 **Codificación** | 📚 **Librerías** | 🌱 **Inicio del programa** |
+| ⚙️ **Codificación** | 🧩 **Librerías** | 🚀 **Inicio del Programa** |
 |:------------------:|:----------------:|:-------------------------:|
-| El código se guarda como **programa fuente** con extensión `.c`, por ejemplo `nombre_archivo.c`. | Las librerías tienen extensión `.h`, por ejemplo `nombre_librería.h`. La librería esencial es `stdio.h` (`#include <stdio.h>`). | Todo programa en C comienza desde la función `main()`. |
+| El código se guarda como **programa fuente** con extensión `.c`, por ejemplo `nombre_archivo.c`. | Las librerías tienen extensión `.h`, como `nombre_librería.h`. La librería esencial es `stdio.h` (`#include <stdio.h>`). | Todo programa en C comienza desde la función `main()`. |
 
 </div>
 
 ---
 
-### 🌼 Tipos de datos simples
-El tipo de dato define la cantidad de memoria que ocupa un valor.
+### 🧮 Tipos de Datos Simples
+El **tipo de dato** determina el espacio de memoria que ocupa un valor y las operaciones que puede realizar.
 
 <div align="center">
 
@@ -25,11 +25,11 @@ El tipo de dato define la cantidad de memoria que ocupa un valor.
 
 ---
 
-### 🌷 Variables y Constantes
+### 🧱 Variables y Constantes
 
 <div align="center">
 
-| 🌸 **Variables** | 🌺 **Constantes** |
+| 🔢 **Variables** | 🔒 **Constantes** |
 |:----------------:|:----------------:|
 | Se declaran antes de usarlas y al inicio del programa. | Pueden ser **globales** (fuera de funciones) o **locales** (dentro de funciones). |
 | <img width="800" height="250" alt="Variables" src="https://github.com/user-attachments/assets/1a247aa3-3113-4ec3-95eb-7c55b28c6198" /> | <img width="380" height="250" alt="Constantes" src="https://github.com/user-attachments/assets/f53e217b-3170-48da-b75a-d2ed289f69df" /> |
@@ -38,8 +38,8 @@ El tipo de dato define la cantidad de memoria que ocupa un valor.
 
 ---
 
-### 🌸 Máscaras (Bitmasks)
-En C, las máscaras son patrones de bits que se usan para **aislar, establecer o borrar bits** mediante operadores bit a bit.
+### 💡 Máscaras (Bitmasks)
+En C, las **máscaras de bits** son patrones binarios que permiten **manipular bits individuales** usando operadores bit a bit.
 
 <div align="center">
 
@@ -49,15 +49,15 @@ En C, las máscaras son patrones de bits que se usan para **aislar, establecer o
 
 ---
 
-### 🌷 Entrada y salida de datos
+### 🧰 Entrada y Salida de Datos
 
 <div align="center">
 
-| 📥 **Entrada (leer)** | 📤 **Salida (escribir)** |
+| ⌨️ **Entrada (leer)** | 🖨️ **Salida (escribir)** |
 |:--------------------:|:-----------------------:|
 | `scanf("formato", &variable);` | `printf("El resultado es %i", suma);` |
 
-| 🔑 **Palabras reservadas** | 💬 **Comentarios** |
+| 🧠 **Palabras Reservadas** | 💬 **Comentarios** |
 |:--------------------------:|:-----------------:|
 | <img width="1180" height="620" alt="Palabras reservadas" src="https://github.com/user-attachments/assets/0268bb1d-1ca2-4020-bcba-4cbe7f36a2ac" /> | <img width="800" height="380" alt="Comentarios" src="https://github.com/user-attachments/assets/024f5e41-018a-42cd-834b-d2b7c5aee09a" /> |
 
@@ -65,8 +65,8 @@ En C, las máscaras son patrones de bits que se usan para **aislar, establecer o
 
 ---
 
-### 🌼 Programación en Java
-Un programa Java inicia con el método `main` de una clase `.java`.
+### ☕ Programación en Java
+Todo programa en **Java** comienza con una clase que contiene el método `main`.
 
 <div align="center">
 
@@ -76,39 +76,17 @@ Un programa Java inicia con el método `main` de una clase `.java`.
 
 ---
 
-### 🌺 Programación en Python
-Python ejecuta el archivo `.py` línea por línea, de arriba hacia abajo.
+### 🐍 Programación en Python
+**Python** ejecuta el archivo `.py` línea por línea, interpretando las instrucciones de arriba hacia abajo.
 
 <div align="center">
 
-<img width="603" height="460" alt="Captura de pantalla 2025-10-19 161745" src="https://github.com/user-attachments/assets/4e118f4b-99ca-4229-9f59-99b690999bdc" />
+<img width="603" height="460" alt="Python" src="https://github.com/user-attachments/assets/4e118f4b-99ca-4229-9f59-99b690999bdc" />
 
 </div>
 
 ---
 
-<h3 align="center">🌼 <a href="Unidad1.md" style="color: inherit; text-decoration: none;">⬅️ Volver</a> 🌼</h3>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<h3 align="center">🔙 <a href="Unidad1.md" style="color: inherit; text-decoration: none;">⬅️ Volver</a> 🔙</h3>
 
 
