@@ -65,6 +65,18 @@ En C, las **máscaras de bits** son patrones binarios que permiten **manipular b
 
 ---
 
+### 💻 Programación en C
+Un programa en **C** se escribe como archivo fuente con extensión `.c` y siempre inicia en la función principal `main()`.
+
+<div align="center">
+
+<img width="615" height="415" alt="Programación en C" src="https://github.com/user-attachments/assets/31a4fff7-9811-4d06-9dbd-82efdfaf34cb" />
+
+</div>
+
+
+---
+
 ### ☕ Programación en Java
 Todo programa en **Java** comienza con una clase que contiene el método `main`.
 
@@ -84,6 +96,7 @@ Todo programa en **Java** comienza con una clase que contiene el método `main`.
 <img width="603" height="460" alt="Python" src="https://github.com/user-attachments/assets/4e118f4b-99ca-4229-9f59-99b690999bdc" />
 
 </div>
+
 
 ---
 
