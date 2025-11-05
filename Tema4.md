@@ -81,11 +81,34 @@ Python ejecuta el archivo `.py` línea por línea, de arriba hacia abajo.
 
 <div align="center">
 
-<img width="603" height="336" alt="Python" src="https://github.com/user-attachments/assets/b377b096-d6cd-4b5f-b62a-486cf0780f72" />
+<img width="603" height="460" alt="Captura de pantalla 2025-10-19 161745" src="https://github.com/user-attachments/assets/4e118f4b-99ca-4229-9f59-99b690999bdc" />
 
 </div>
 
 ---
 
 <h3 align="center">🌼 <a href="Unidad1.md" style="color: inherit; text-decoration: none;">⬅️ Volver</a> 🌼</h3>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
