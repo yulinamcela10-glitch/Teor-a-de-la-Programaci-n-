@@ -1,34 +1,34 @@
 
-## 🌺 **Elementos Básicos de Algoritmos y Programas**
+## 💻 **Elementos Básicos de Algoritmos y Programas**
 ---
 
-### 🌸 Datos e Información  
+### 🧮 Datos e Información  
 Un **dato** es cualquier valor (número, letra o palabra) que se entrega a la computadora como entrada.  
 Al procesarse, los datos se transforman en **información**, es decir, resultados con significado.
 
 ---
 
-### 🌼 Tipos de Datos Simples  
+### ⚙️ Tipos de Datos Simples  
 
 <div align="center">
 
-| 🌷 **Enteros (int)** | 🌸 **Reales (float o double)** |
+| 💾 **Enteros (int)** | 🧠 **Reales (float o double)** |
 |:-------------------:|:--------------------:|
 | Valores sin punto decimal. Pueden ser positivos, negativos o cero. | Números con parte decimal o flotante. También pueden ser positivos, negativos o cero. |
-| 🌻 **Lógicos (boolean)** | 🌺 **Carácter (char)** |
+| 🧩 **Lógicos (boolean)** | 🔡 **Carácter (char)** |
 | Solo pueden tomar dos valores: **verdadero** o **falso**. | Representan un único carácter (letra, número o símbolo) encerrado entre comillas. |
 
 </div>
 
 ---
 
-### 🌹 Identificadores  
+### 🧠 Identificadores  
 Un **identificador** es el nombre que se asigna a un elemento del programa (variable, constante, función, etc.).  
 Debe ser claro, descriptivo y único dentro del código.
 
 <div align="center">
 
-| 🌷 **Variable** | 🌸 **Constante** |
+| 🧮 **Variable** | 💾 **Constante** |
 |:-------------------:|:--------------------:|
 | Almacena un valor que puede **cambiar** durante la ejecución del programa. | Guarda un valor que **permanece igual** durante toda la ejecución. Suele escribirse en **mayúsculas**. |
 
@@ -36,16 +36,15 @@ Debe ser claro, descriptivo y único dentro del código.
 
 ---
 
-### 🌻 Asignación  
+### 🧱 Asignación  
 Es el proceso de **dar un valor** a una variable o constante.  
 Se utiliza el símbolo `←` o `=`:  
-
 
 El tipo de dato asignado debe ser compatible con la variable para evitar errores.
 
 ---
 
-### 🌷 Entrada y Salida de Datos  
+### 🖥️ Entrada y Salida de Datos  
 
 - **Entrada (Lectura):** Permite al usuario ingresar información.  
   👉 `Leer variable`
@@ -55,7 +54,7 @@ El tipo de dato asignado debe ser compatible con la variable para evitar errores
 
 ---
 
-### 🌼 Comentarios en el Código (Lenguaje C)
+### 💬 Comentarios en el Código (Lenguaje C)
 Los **comentarios** se utilizan para explicar el funcionamiento del programa.  
 No se ejecutan, pero facilitan la comprensión del código:
 
@@ -65,8 +64,9 @@ No se ejecutan, pero facilitan la comprensión del código:
 // Proceso
 // Datos de salida
 ```
+
 ---
-### 🌸 Expresiones  
+### ⚡ Expresiones  
 Son combinaciones de variables, constantes y operadores que permiten realizar cálculos o comparaciones.
 
 <div align="center">
@@ -79,12 +79,12 @@ Son combinaciones de variables, constantes y operadores que permiten realizar c�
 
 ---
 
-### 🌺 Pruebas de Escritorio  
+### 🧩 Pruebas de Escritorio  
 Las **pruebas de escritorio** consisten en simular manualmente los datos de entrada para comprobar si el algoritmo produce los resultados esperados.
 
 <div align="center">
 
-| 🧩 **Instrucción** | 🅰️ **a** | 🅱️ **b** | ➕ **suma** | 🖨️ **salida** |
+| 💻 **Instrucción** | 🅰️ **a** | 🅱️ **b** | ➕ **suma** | 🖨️ **salida** |
 |:------------------:|:--------:|:--------:|:------------:|:-------------:|
 | Inicio |  |  |  |  |
 | Leer a | 2 |  |  |  |
@@ -95,5 +95,5 @@ Las **pruebas de escritorio** consisten en simular manualmente los datos de entr
 
 </div>
 
-<h3 align="center">🌼 <a href="Unidad1.md" style="color: inherit; text-decoration: none;">⬅️ Volver</a> 🌼</h3>
+<h3 align="center">🔙 <a href="Unidad1.md" style="color: inherit; text-decoration: none;">⬅️ Volver</a> 🔙</h3>
 
