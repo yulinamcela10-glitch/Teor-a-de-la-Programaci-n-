@@ -24,7 +24,7 @@
 
 Durante la unidad se realizaron diversas actividades para fortalecer la comprensión de los contenidos y fomentar la lógica computacional:
 
-### 💡 **Programación por Bloques**  
+### 1.💡 **Programación por Bloques**  
 La programación por bloques utiliza piezas visuales que representan instrucciones, facilitando el aprendizaje de la lógica sin necesidad de escribir código.  
 
 **Características principales:**  
@@ -61,7 +61,7 @@ La programación por bloques utiliza piezas visuales que representan instruccion
 
 ---
 
-### 🧮 **Debugging Challenge: “Cazadores de Bugs”**
+### 2.🧮 **Debugging Challenge: “Cazadores de Bugs”**
 
 **Objetivo:**  Desarrollar habilidades de detección y corrección de errores en algoritmos secuenciales escritos en pseudocódigo, justificando cada ajuste y validando la solución modificada mediante la ejecución del algoritmo.       
 
@@ -86,13 +86,13 @@ La programación por bloques utiliza piezas visuales que representan instruccion
 
 ---
 
-### ⚙️ **Primer acercamiento a la construcción de algoritmos con estructuras secuenciales en pseudocódigo**     
+### 3.⚙️ **Primer acercamiento a la construcción de algoritmos con estructuras secuenciales en pseudocódigo**     
 **Objetivo:** Familiarizar al estudiante con la herramienta PSeInt y desarrollar su primer algoritmo en pseudocódigo, aplicando estructuras secuenciales básicas.  
 📁 [Ver ejercicios ⚙️](https://drive.google.com/file/d/15jUxli-JzXGBx5r_b8DiPHQ_b-ipSBz_/view?usp=sharing)
 
 ---
 
-### 🧠 **Del diseño del algoritmo con estructuras secuenciales a la construcción del programa**     
+### 4.🧠 **Del diseño del algoritmo con estructuras secuenciales a la construcción del programa**     
 **Objetivo:**       
  - Desarrollar la capacidad de transformar un problema en una solución computacional.            
  - Aplicar estructuras secuenciales en el diseño del algoritmo.             
@@ -102,15 +102,15 @@ La programación por bloques utiliza piezas visuales que representan instruccion
 
 ---
 
-## 💾 *Aprendizaje Autónomo (AA)*
+## 🧩 *Aprendizaje Autónomo (AA)*
 
 En esta sección se presentan las actividades de **Aprendizaje Autónomo** desarrolladas durante la Unidad 1:
 
-- ⚙️ **Exploración y uso de herramientas digitales para la creación de pseudocódigos y diagramas de flujo**                  
+### **1.⚙️ Exploración y uso de herramientas digitales para la creación de pseudocódigos y diagramas de flujo**                  
    **Objetivo:** Reconocer y aplicar herramientas digitales para la representación de algoritmos en pseudocódigo y diagramas de flujo, fortaleciendo la comprensión del proceso de solución de problemas computacionales.         
   📁 [Ver evidencia ⚙️](https://drive.google.com/file/d/1mFX2jfmvYOJaSaiRlkSRpTC8hdV3Lj8H/view?usp=sharing)
 
-- ⚙️ **Revisión e instalación de lenguajes de programación (C, Python o Java)**        
+ ### **2.⚙️ Revisión e instalación de lenguajes de programación (C, Python o Java)**        
   **Objetivo:** Revisar e interpretar tutoriales oficiales de instalación de lenguajes de programación, con el fin de familiarizarse con el entorno de desarrollo, documentando el proceso de instalación en un informe estructurado.  
   📁 [Ver evidencia ⚙️](https://drive.google.com/file/d/19-fXjSqdCKEOhiwnxta5Xum2aeTGrDA8/view?usp=sharing)
 
