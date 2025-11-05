@@ -15,7 +15,7 @@
 ### 💾 Herramientas para la Programación  
 [Ir a Tema 3 ⚙️](Tema3.md)
 
-### 💾 Programación en lenguajes de alto nivel
+### 💾 Programación en Lenguajes de Alto Nivel
 [Ir a Tema 4 ⚙️](Tema4.md)
 
 ---
