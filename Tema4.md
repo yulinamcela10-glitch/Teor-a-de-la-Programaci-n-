@@ -1,5 +1,5 @@
 
-## 💻 Programación
+## 💻 Programación en lenguajes de alto nivel
 ---
 
 ### 🧠 Programación en C
