@@ -8,14 +8,15 @@
 
 ### 💾  Estructuras condicionales (tipos y ejercicios en diagrama de flujo y en C) 
 
+[Ir a Tema 1 ⚙️](Tema1Unidad2.md)
 
-### 💾 Elementos Básicos de Algoritmos y Programas  
+### 💾 Estructuras repetitivas (tipos y ejercicios en diagrama de flujo y en C)
+  
+[Ir a Tema 2 ⚙️](Tema2Unidad2.md)
 
+### 💾 Ejercicio combinando estructura condicional y repetitiva (Java o Python).
 
-### 💾 Herramientas para la Programación  
-
-
-### 💾 Programación en Lenguajes de Alto Nivel
+[Ir a Tema 3 ⚙️](Tema3Unidad2.md)
 
 
 ---
