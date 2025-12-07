@@ -28,7 +28,7 @@
 ---
 
 ### 🖥️ **Unidad 2:** Estructuras y Funciones  
-> 🧮 *Comprensión de estructuras de control, funciones y modularidad en la programación.*
+> 🧮 *Comprensión de estructuras de control, funciones y modularidad en la programación.*          
 🔗 [Ir a la Unidad 1 ⚙️](Unidad2.md)
 
 ---
