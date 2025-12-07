@@ -1,12 +1,13 @@
 
-<h1 align="center">💻 <em>UNIDAD 1 – Fundamentos de Algoritmos y Programas</em> 💻</h1>
+<h1 align="center">💻 <em>UNIDAD 2 – Estructuras algorítmicas de control</em> 💻</h1>
 
 ---
 
 ## 🧠 **Contenidos vistos en la Unidad 1**
 ---
 
-### 💾 Conceptos Fundamentales de Algoritmos  
+### 💾  Estructuras condicionales (tipos y ejercicios en diagrama de flujo y en C) 
+ 
 
 
 ### 💾 Elementos Básicos de Algoritmos y Programas  
