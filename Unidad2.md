@@ -7,7 +7,6 @@
 ---
 
 ### 💾  Estructuras condicionales (tipos y ejercicios en diagrama de flujo y en C) 
- 
 
 
 ### 💾 Elementos Básicos de Algoritmos y Programas  
