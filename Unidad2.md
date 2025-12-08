@@ -23,9 +23,9 @@
 
 ## 🧩 *Aprendizaje Práctico Experimental (APE)*  
 
-Durante la unidad se realizaron diversas actividades para fortalecer la comprensión de los contenidos y fomentar la lógica computacional:
+Durante la unidad se realizaron diversas actividades para la mejor comprension de las estructuras condicionales y estructuras repetitivas:
 
-### 1.💡 **Programación por Bloques**  
+### 1.💡 **Aplicación de estructuras condicionales en la resolución de problemas**  
 La programación por bloques utiliza piezas visuales que representan instrucciones, facilitando el aprendizaje de la lógica sin necesidad de escribir código.  
 
 **Características principales:**  
