@@ -23,17 +23,17 @@ Durante la unidad se realizaron diversas actividades orientadas a fortalecer la 
 
 ### 1.💡 **Aplicación de estructuras condicionales en la resolución de problemas**
 **Objetivo:**
-- Comprender y aplicar estructuras condicionales simples, dobles y múltiples.
-- Diseñar algoritmos que utilicen sentencias de decisión para clasificar o evaluar información.
-- Validar el funcionamiento mediante ejecución y comprobación de casos.
+- Comprender y aplicar las estructuras condicionales simples, dobles y múltiples en la resolución de problemas.
+- Diseñar y codificar un algoritmo que utilice sentencias de decisión para analizar y clasificar información.
+- Validar el funcionamiento del programa mediante la ejecución práctica.
 
 📁 [Ver ejercicios ⚙️](https://drive.google.com/file/d/1LLR8OLSWgZ2NWMsxdP42ToIst-QHuGxE/view?usp=sharing)
 
 ### 2.💡 **Aplicación de estructuras repetitivas en la resolución de problemas**
 **Objetivo:**
-- Comprender y aplicar diferentes tipos de bucles.
-- Diseñar algoritmos capaces de repetir tareas de forma eficiente.
-- Evaluar la lógica implementada mediante pruebas y ejecución real.
+- Comprender y aplicar las estructuras repetitivas en la resolución de problemas.
+- Diseñar y codificar un algoritmo que utilice bucles para resolver un problema de tipo iterativo.
+- Validar el funcionamiento del programa mediante la ejecución práctica.
 
 📁 [Ver ejercicios ⚙️](https://drive.google.com/file/d/1xW1Fp8uobihD6i7s8nlMc6skBZIIa8TH/view?usp=sharing)
 
