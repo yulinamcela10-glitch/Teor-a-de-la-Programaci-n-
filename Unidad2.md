@@ -61,13 +61,13 @@ Mediante ejercicios prácticos, diagramas de flujo y codificación real, se comp
 
 ## 🧱 *Dificultades*
 Al inicio surgieron dificultades relacionadas con la correcta interpretación de las condiciones y el uso adecuado de cada tipo de bucle.  
-Sin embargo, la resolución guiada de ejercicios, la experimentación en el código y el acompañamiento de la docente permitieron superar estos retos, logrando una comprensión más clara y funcional de los fundamentos algorítmicos.
+Sin embargo, la resolución guiada de ejercicios, permitieron una comprensión más clara y funcional de los fundamentos algorítmicos.
 
 ---
 
 ## 💡 *Reflexión Crítica*
 Esta unidad fue clave para el desarrollo del pensamiento lógico-computacional, ya que introdujo herramientas esenciales para la toma de decisiones y la automatización de procesos dentro de un programa.  
-El uso de diagramas, entornos de programación y recursos digitales facilitó un aprendizaje más práctico, permitiendo comprender cómo se estructura el flujo de un algoritmo y cómo controlarlo de manera eficiente mediante decisiones y repeticiones.
+El uso de diagramas, entornos de programación y recursos digitales facilitó un aprendizaje más práctico.
 
 ---
 
