@@ -14,7 +14,7 @@ El proceso continúa mientras los valores sean mayores que cero; al ingresar un 
 
 El if se utiliza para verificar si el número ingresado es positivo y, solo en ese caso, aumentar el contador.
 
-### 🔁 Bucle do while
+### 🔁 Bucle do...while
 
 
 El programa entra en el ciclo al menos una vez, ya que en <i>do while</i> la condición se evalúa al final.
@@ -29,30 +29,30 @@ El programa entra en el ciclo al menos una vez, ya que en <i>do while</i> la con
 Cuando el usuario ingresa un número negativo o igual a cero, el ciclo termina y el programa muestra la cantidad de números positivos ingresados.
 
 
-# 💻 Diagrama de flujo simplificado</h1>
+# 💻 Diagrama de flujo simplificado
 
 <div align="center">
-    <img width="450" height="600" src="https://github.com/user-attachments/assets/76d0a95d-2b6d-499a-93a8-4771f5544b9c" />
+    
+<img width="450" height="600" alt="image" src="https://github.com/user-attachments/assets/b1ec0b9f-a7e3-4a7d-9714-22d950b3a975" />
+
+
 </div>
 
-<br>
-
-
-# 💻 Programa en C
+# 💻 Programa en Java
 
 <div align="center">
-    <img width="603" height="450" src="https://github.com/user-attachments/assets/3ded9eec-0fca-4557-a98c-cc7951e9af98" />
+
+<img width="700" height="500" alt="image" src="https://github.com/user-attachments/assets/6c143943-533b-4286-ae92-52becc51e18b" />
+
 </div>
 
-<br>
-
-# 💻 Verificación</h1>
+# 💻 Verificación
 
 <div align="center">
-    <img width="603" height="450" src="https://github.com/user-attachments/assets/951012a6-a1fc-4296-8823-95a697cec6cb" />
-</div>
 
-<br>
+<img width="603" height="450" alt="image" src="https://github.com/user-attachments/assets/66bbae88-f83a-4593-8ed6-d2de154dc5ff" />
+
+</div>
 
 
 <h3 align="center">
