@@ -1,4 +1,7 @@
 # ☕ Combinacion de if y do...while en Java
+
+--- 
+
 ## 💻 Descripción del problema
 
 El siguiente programa cuenta cuántos números positivos ingresa el usuario.  
