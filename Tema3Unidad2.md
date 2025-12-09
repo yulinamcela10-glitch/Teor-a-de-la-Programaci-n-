@@ -1,4 +1,5 @@
-# 💻 Descripción del problema
+# ☕ Combinacion de if y do...while en Java
+## 💻 Descripción del problema
 
 El siguiente programa cuenta cuántos números positivos ingresa el usuario.  
 El proceso continúa mientras los valores sean mayores que cero; al ingresar un número negativo o cero, el ciclo finaliza.
@@ -29,7 +30,7 @@ El programa entra en el ciclo al menos una vez, ya que en <i>do while</i> la con
 Cuando el usuario ingresa un número negativo o igual a cero, el ciclo termina y el programa muestra la cantidad de números positivos ingresados.
 
 
-# 💻 Diagrama de flujo simplificado
+## 💻 Diagrama de flujo simplificado
 
 <div align="center">
     
@@ -38,7 +39,7 @@ Cuando el usuario ingresa un número negativo o igual a cero, el ciclo termina y
 
 </div>
 
-# 💻 Programa en Java
+## 💻 Programa en Java
 
 <div align="center">
 
@@ -46,7 +47,7 @@ Cuando el usuario ingresa un número negativo o igual a cero, el ciclo termina y
 
 </div>
 
-# 💻 Verificación
+## 💻 Verificación
 
 <div align="center">
 
