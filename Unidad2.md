@@ -49,7 +49,8 @@ Durante la unidad se realizaron diversas actividades orientadas a fortalecer la 
 ### **2.⚙️ Cuadro comparativo entre las estructuras repetitivas**
 **Objetivo:** Identificar similitudes, diferencias y aplicaciones prácticas de los principales bucles utilizados en la construcción de algoritmos.
 
-📁 [Ver evidencia ⚙️](https://drive.google.com/file/d/1AeL2mfdUEgMjZfIYiDlrINoVN4uOJmBA/view?usp=sharing)
+📁 [Ver evidencia ⚙️](https://drive.google.com/file/d/1xgzZneNJQEld7y8KuRHss5C7Q-4_gCne/view?usp=sharing)
+
 
 ---
 
