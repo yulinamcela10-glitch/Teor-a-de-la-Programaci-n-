@@ -62,6 +62,9 @@ https://www.researchgate.net/publication/362961606
 programación Python en el Desarrollo de Software,” Revista Científica Élite, vol. 6, no. 2, pp.
 1–6, Sep. 2024, doi: 10.69603/itsqmet.vol6.n2.2024.90. 
 
+[4] E. Guzmán Y Valle, A. Máter, D. Magisterio, N. Facultad, and D. E. Ciencias, “UNIVERSIDAD NACIONAL DE
+EDUCACIÓN,” Lima, Perú, May 2021.
+
 ---
 
 ## 🤖 Declaración sobre el Uso de la IA Generativa  
