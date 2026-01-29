@@ -28,13 +28,14 @@
 ---
 
 ### 🖥️ **Unidad 2:** Estructuras y Funciones  
-> 🧮 *Comprensión de estructuras de control, funciones y modularidad en la programación.*          
+> 🧮 *Comprensión de estructuras de control, funciones y modularidad en la programación.*                   
 🔗 [Ir a la Unidad 2 ⚙️](Unidad2.md)
 
 ---
 
-### 🧠 **Unidad 3:** Paradigmas y Lenguajes de Programación  
-> 🧰 *Análisis de los diferentes paradigmas de programación y su aplicación práctica.*  
+### 🧠 **Unidad 3:** Programación Modular y Estructuras de Datos Estáticas 
+> 🧰 *Análisis de los diferentes paradigmas de programación y su aplicación práctica.*          
+🔗 [Ir a la Unidad 3 ⚙️](Unidad3.md)
 
 ---
 
