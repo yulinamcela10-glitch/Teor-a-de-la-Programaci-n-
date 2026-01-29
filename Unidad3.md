@@ -33,16 +33,6 @@
 
 ---
 
-## 🧩 *Aprendizaje en Contacto con el Docente (ACD)*
-
-### 1. ⚙️ **Proyecto Académico Integrador**
-**Objetivo:**
-- Aplicar los fundamentos de la programación estructurada mediante el análisis, diseño, codificación y validación de una solución computacional, integrando el uso de funciones y estructuras de datos básicas para la resolución de un problema de interés.
-
-📁 [Ver evidencia ⚙️]()
-
----
-
 ## 🧾 *Resumen de la Unidad*
 
 En esta unidad se estudiaron los fundamentos de la programación modular en el lenguaje C, abordando conceptos como la modularidad, el uso de funciones y procedimientos, y el paso de parámetros por valor y por referencia.  
