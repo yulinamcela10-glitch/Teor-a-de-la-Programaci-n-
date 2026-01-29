@@ -34,14 +34,21 @@
 ---
 
 ### 🧠 **Unidad 3:** Programación Modular y Estructuras de Datos Estáticas 
-> 🧰 *Análisis de los diferentes paradigmas de programación y su aplicación práctica.*          
+> 🧰 *Análisis de la programación modular y estructura de arreglos.*          
 🔗 [Ir a la Unidad 3 ⚙️](Unidad3.md)
 
 ---
 
 ## 🧾 Conclusiones Generales  
 
-💻 *En esta sección no aplica la elaboración de conclusiones generales, dado el carácter introductorio y formativo de la asignatura.*  
+💻 *En esta sección se presentaran las conclusiones generales de las unidades 1, 2 y 3 de la asignatura.*  
+
+El desarrollo de las Unidades 1, 2 y 3 permitió consolidar los conocimientos fundamentales de la programación estructurada, fortaleciendo el razonamiento lógico y la capacidad para analizar y resolver problemas computacionales de manera ordenada.
+
+Durante el aprendizaje se comprendió la importancia del diseño de algoritmos, el uso de diagramas de flujo y pseudocódigo como base para la codificación en lenguajes como C, Java y Python. Asimismo, la aplicación de estructuras condicionales y repetitivas facilitó el control del flujo de ejecución de los programas, mientras que la programación modular y el uso de arreglos permitieron organizar mejor el código, optimizar procesos y reutilizar funciones.
+
+En conjunto, estas unidades brindaron una base sólida para enfrentar desafíos de programación más complejos y continuar el desarrollo de habilidades en el área de la computación.
+
 
 ---
 
