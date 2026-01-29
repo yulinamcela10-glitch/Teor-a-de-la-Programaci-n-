@@ -1,21 +1,35 @@
+
 # 💻 **Modularidad**
 ---
 
-## 🔹 **¿ Qué es la Modularidad?** 
+## 🔹 **¿Qué es la modularidad?**
 
-Cuando tenemos algoritmos largos y complejos, una técnica para reducir la complejidad es dividir el programa grande en subprogramas pequeños (divide y vencerás). A esta tecnica se la conoce como **Modularización**, estos módulos reciben el nombre de: procesos, funciones, rutinas, sub-rutinas, etc.
+Cuando un programa o algoritmo se vuelve **extenso y complejo**, una estrategia fundamental para facilitar su comprensión y mantenimiento es **dividirlo en partes más pequeñas y manejables**.  
+Esta técnica se conoce como **modularidad** o **modularización** y se basa en el principio de *divide y vencerás*.
 
-### 🧪 **Ejemplo**  
-El programa imprimira los numeros correspondientes dependiendo de si los parametros se envian por valor o por referencia.
+Cada parte del programa se desarrolla como un **módulo independiente**, el cual puede realizar una tarea específica.  
+Estos módulos reciben distintos nombres según el lenguaje de programación, como **funciones**, **procedimientos**, **rutinas** o **subrutinas**.
+
+La modularidad permite:
+- Reutilizar código.
+- Facilitar la depuración y el mantenimiento.
+- Mejorar la organización y claridad del programa.
+- Reducir la complejidad de los algoritmos.
+
+---
+
+## 🧪 **Ejemplo**
+
+El siguiente ejemplo muestra un programa que imprime diferentes valores dependiendo de si los **parámetros** son enviados **por valor** o **por referencia**, evidenciando cómo se comportan las variables dentro de los módulos.
 
 <div align="center">
 
-| 💻 **Pase de parametros por valor** | 🔄 **Pase de parametros por referencia** |
-|------------------------|--------------------------|
-| <img width="509" height="567" alt="image" src="https://github.com/user-attachments/assets/2ccbc75f-e1df-4b1f-9df8-b42d93e4953e"/> | <img width="509" height="567" alt="image" src="https://github.com/user-attachments/assets/a79c3137-118b-4d2a-b587-5d07ed2b4bac"/>|
+| 💻 **Paso de parámetros por valor** | 🔄 **Paso de parámetros por referencia** |
+|------------------------------------|------------------------------------------|
+| <img width="409" height="467" alt="Paso por valor" src="https://github.com/user-attachments/assets/2ccbc75f-e1df-4b1f-9df8-b42d93e4953e"/>  <img width="248" height="123" alt="Resultado valor" src="https://github.com/user-attachments/assets/ffcc5dc6-2bae-45be-a84f-49c33a7a1a83" /> | <img width="409" height="467" alt="Paso por referencia" src="https://github.com/user-attachments/assets/a79c3137-118b-4d2a-b587-5d07ed2b4bac"/>  <img width="222" height="137" alt="Resultado referencia" src="https://github.com/user-attachments/assets/1e5478e9-5fd2-4322-83c3-dae30d3d485b" /> |
 
 </div>
 
+---
 
-
-<h3 align="center">🖥️ <a href="Unidad3.md" style="color: inherit; text-decoration: none;">⬅️ Volver a unidad 3</a> 🖥️</h3>
+<h3 align="center">🖥️ <a href="Unidad3.md" style="color: inherit; text-decoration: none;">⬅️ Volver a la Unidad 3</a> 🖥️</h3>
