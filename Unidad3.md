@@ -15,36 +15,29 @@
 
 ## 🧩 *Aprendizaje Práctico Experimental (APE)*
 
-Durante la unidad se realizaron diversas actividades orientadas a fortalecer la comprensión y aplicación de las estructuras condicionales y repetitivas en la programación.
-
 ### 1.💡 **Construcción de funciones y procedimientos en un lenguaje de programación.**
 **Objetivo:**
 - Aplicar los fundamentos de la programación modular mediante la construcción y uso de funciones y procedimientos, para resolver un problema real, garantizando un código estructurado, reutilizable y correctamente documentado.
 
 📁 [Ver ejercicios ⚙️](https://drive.google.com/file/d/1uruQ09NgA73z4ZHv6x-tmLps5ejtIoDn/view?usp=sharing)     
 
-### 2.💡 **Aplicación de estructuras repetitivas en la resolución de problemas**
-**Objetivo:**
-- Comprender y aplicar las estructuras repetitivas en la resolución de problemas.
-- Diseñar y codificar un algoritmo que utilice bucles para resolver un problema de tipo iterativo.
-- Validar el funcionamiento del programa mediante la ejecución práctica.
-
-📁 [Ver ejercicios ⚙️](https://drive.google.com/file/d/1xW1Fp8uobihD6i7s8nlMc6skBZIIa8TH/view?usp=sharing)
-
 ---
 
 ## 🧩 *Aprendizaje Autónomo (AA)*
 
-### **1.⚙️ Diferencias entre los tipos de estructuras condicionales**
-**Objetivo:** Analizar y representar mediante diagramas de flujo y código los distintos tipos de decisiones utilizadas en la programación.
+### **1.⚙️ Curso Fundamentos de Python 1. Computación UNL**
 
-📁 [Ver evidencia ⚙️](https://drive.google.com/file/d/1URfHQsXflcXwZQcl9dlL6UcBHcnz8sF8/view?usp=sharing)
+📁 [Ver evidencia ⚙️](https://drive.google.com/file/d/1W238et_bUzNidCxDz_1RMg_rvtg4iRue/view?usp=sharing)
 
-### **2.⚙️ Cuadro comparativo entre las estructuras repetitivas**
-**Objetivo:** Identificar similitudes, diferencias y aplicaciones prácticas de los principales bucles utilizados en la construcción de algoritmos.
+---
 
-📁 [Ver evidencia ⚙️](https://drive.google.com/file/d/1xgzZneNJQEld7y8KuRHss5C7Q-4_gCne/view?usp=sharing)
+## 🧩 *Aprendizaje en Contacto con el Docente (ACD)*
 
+### **1.⚙️ Proyecto Académico Integrador**         
+**Objetivo:**
+- Aplicar los fundamentos de la programación estructurada mediante el análisis, diseño, codificación y validación de una solución computacional, integrando el uso de funciones y estructuras de datos básicas para la resolución de un problema de interés.
+
+📁 [Ver evidencia ⚙️]()
 
 ---
 
