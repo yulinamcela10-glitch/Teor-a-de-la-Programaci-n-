@@ -18,6 +18,19 @@ La modularidad permite:
 
 ---
 
+## 🔹 **Funciones con envío de parámetros**
+
+### 🔸 **Enviado por valor**       
+Se envía el contenido de la variable, ejemplo=5, se envía el 5 a la función que lo utilizara en sus instrucciones, pero la variable original no se altera.
+
+---
+
+### 🔸 **Enviado por referencia**    
+Se envía la dirección de memoria de la variable es decir si dentro de la función se realiza algún cambio pues la variable fuera de la función sufrirá este cambio.
+
+---
+
+
 ## 🧪 **Ejemplo**
 
 El siguiente ejemplo muestra un programa que imprime diferentes valores dependiendo de si los **parámetros** son enviados **por valor** o **por referencia**, evidenciando cómo se comportan las variables dentro de los módulos.
